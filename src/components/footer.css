@@ -1,0 +1,13 @@
+.footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: rgb(79, 121, 155);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  .copyR{
+      margin-left: 300px;
+      display: inline-block;
+  }
